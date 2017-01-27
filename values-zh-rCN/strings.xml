@@ -136,12 +136,12 @@
             <string name="label_copy_checksum">复制校验和</string>
             <string name="file_not_found">无法找到文件</string>
             <string name="label_versionlog">版本日志</string>
-            <string name="label_show_md5">显示 MD5 校验和</string>
+            <string name="label_show_md5">显示 MD5 校验码</string>
             <string name="label_show_versionlog">显示版本日志</string>
             <string name="label_share">分享</string>
             <string name="label_new">新</string>
-            <string name="label_checksum_valid">校验和正确</string>
-            <string name="label_checksum_invalid">校验和错误</string>
+            <string name="label_checksum_valid">校验正确</string>
+            <string name="label_checksum_invalid">校验错误</string>
             <string name="label_starting_download">开始下载</string>
         <!--EXPLANATION-->
             <string name="explanation_wifi_needed">没有连接到 Wi-Fi。如果要使用数据流量下载，请在设置中取消“仅限 Wi-Fi 下载”</string>
@@ -161,7 +161,7 @@
         <string name="label_sourcecode">源代码</string>
         <string name="label_support_opengapps">支持 Open GApps 项目</string>
         <string name="label_support_opengapps_description">为 Open GApps 安装包维护脚本的开源项目</string>
-        <string name="label_report_bug">报告 Bug</string>
+        <string name="label_report_bug">上报 Bug</string>
 
     <!--______ABOUT______-->
         <!--LABELS-->
@@ -169,9 +169,9 @@
             <string name="label_version">版本</string>
             <string name="main_dev">主要开发者</string>
             <string name="co_dev">合作开发者</string>
-            <string name="label_design">艺术设计</string>
-            <string name="label_translator">译者</string>
-            <string name="label_translators">译者</string>
+            <string name="label_design">设计</string>
+            <string name="label_translator">翻译人员</string>
+            <string name="label_translators">翻译人员</string>
             <string name="label_producer">制作</string>
             <string name="label_eastereggs_found">发现了彩蛋</string>
             <string name="used_libs">库</string>
